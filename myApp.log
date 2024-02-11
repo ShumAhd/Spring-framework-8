@@ -1,0 +1,12 @@
+февр. 11, 2024 5:01:17 PM ru.shum.spring8.aspects.MyLoggingAspect log
+INFO: [43;30mИнформация логирования: [0m
+февр. 11, 2024 5:01:17 PM ru.shum.spring8.aspects.MyLoggingAspect log
+INFO: [32mВызванный метод: [0mgetAllNotes
+февр. 11, 2024 5:01:17 PM ru.shum.spring8.aspects.MyLoggingAspect log
+INFO: [35mКласс: [0mclass ru.shum.spring8.service.impl.NoteServiceImpl
+февр. 11, 2024 5:01:17 PM ru.shum.spring8.aspects.MyLoggingAspect log
+INFO: [36mАргументы: [0m[]
+февр. 11, 2024 5:01:17 PM ru.shum.spring8.aspects.MyLoggingAspect log
+INFO: [34mМетод отработал и вернул значение: [0m[]
+февр. 11, 2024 5:01:17 PM ru.shum.spring8.aspects.MyLoggingAspect log
+INFO: [43;30mКонец блока логирования. [0m
